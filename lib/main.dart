@@ -17,8 +17,8 @@ The navigation delegate is set to block navigation to the youtube website.
 
 </ul>
 </body>
-</html>
-''';
+</html> 
+''' ;
 
 class WebViewExample extends StatefulWidget {
   @override
